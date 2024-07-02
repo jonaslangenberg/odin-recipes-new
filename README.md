@@ -1,1 +1,2 @@
 # odin-recipes-new
+I created three html files for a website that displays three links to three diffrent recipes on its frontpage (index.html). Moreover I added two folders, one holding three images, one for each recipe and the other folder holding the three webpages as html-files. Every recipe has an fitting image and two lists. One unordered list with all the ingredients and one orderd list with the cooking steps to take in order to prepare the recipe.
