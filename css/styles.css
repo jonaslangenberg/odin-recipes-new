@@ -1,0 +1,32 @@
+* {
+    font-family: "courier new", "Times New Roman", sans-serif;
+    color:rgb(39, 156, 74);
+    text-align: center;
+
+}
+
+img {
+    width: 300px;
+    height: auto;
+    align-self: center;
+}
+
+ul {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 50px;
+}
+/* Specific styles for the ordered list in pizza.html */
+
+.pizza {
+    background: aquamarine;
+    font-weight: 200;
+    text-align: left;
+}
+
+#speciality {
+    background-color: black;
+}
